@@ -1,7 +1,7 @@
 {
-  "expired":false,
-  "expiredTitle":"Ricky Trial has ended",
-  "expiredMessage":"…which means it’s time for us to retire this app. But don’t worry, your feedback has helped us create an even better version – now available in the AppStore. Thanks again for participating!",
+  "expired":true,
+  "expiredTitle":"Manolo",
+  "expiredMessage":"Tenemos algo en el mensaje? mmmmm",
   "major":2.0,
   "minor":6
 }
